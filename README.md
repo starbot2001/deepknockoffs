@@ -26,7 +26,7 @@ The code contained in this repository was tested on the following configuration 
 ## Installation guide
 
 ```bash
-cd DeepKnockoffs
+cd DeepKnockoffss
 python setup.py install --user
 ```
 
